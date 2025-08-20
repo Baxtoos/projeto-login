@@ -13,7 +13,7 @@
 
   section#login {
     width: 80vw;
-    height: 300px;
+    height: 330px;
   }
 
   section#login > div#imagem {
@@ -43,7 +43,7 @@
   }
 
   div.campo > input {
-    transform: translate(3px, -10px);
+    transform: translate(3px, -11px);
   }
 }
 
@@ -88,6 +88,6 @@
 
   div.campo > input {
     width: 89%;
-    transform: translate(-1px, -10px);
+    transform: translate(-1px, -11px);
   }
 }
