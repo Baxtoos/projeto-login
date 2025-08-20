@@ -40,11 +40,10 @@
   form > a.botao {
     width: 80%;
     margin: 10px auto;
-    padding: 10p;
   }
 
   div.campo > input {
-    transform: translate(3px, -11px);
+    transform: translate(3px, -10px);
   }
 }
 
@@ -70,7 +69,7 @@
   }
 
   div#formulario > h1 {
-    font-size: 1.8em;
+    font-size: 1.5em;
   }
 
   div#formulario > p {
@@ -89,6 +88,6 @@
 
   div.campo > input {
     width: 89%;
-    transform: translate(-1px, -11px);
+    transform: translate(-1px, -10px);
   }
 }
